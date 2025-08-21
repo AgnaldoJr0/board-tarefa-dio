@@ -1,4 +1,6 @@
 --liquibase formatted sql
+
+--changeset author:1
 --comment: blocks table create
 
 CREATE TABLE BLOCKS(

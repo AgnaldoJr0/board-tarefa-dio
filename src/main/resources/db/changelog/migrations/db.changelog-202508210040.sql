@@ -1,4 +1,6 @@
 --liquibase formatted sql
+
+--changeset author:1
 --comment: boards_columns table create
 
 CREATE TABLE BOARDS_COLUMNS(

@@ -1,4 +1,6 @@
 --liquibase formatted sql
+
+--changeset author:1
 --comment: cards table create
 
 CREATE TABLE CARDS(
