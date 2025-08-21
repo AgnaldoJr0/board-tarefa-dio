@@ -1,5 +1,5 @@
 ## Desafio de Projeto na Plataforme DIO
-Neste projeto eu recriei um board de tarefa utilizando Java e MySql para o banco de dados.
+Neste projeto eu recriei um board de tarefa utilizando Java e MySQL para o banco de dados.
 
 [Repositório Original](https://github.com/digitalinnovationone/board/tree/master)
 
